@@ -1,0 +1,101 @@
+{
+	"languageName": "Italiano (IT)",
+	"translatedLanguageName": "Italian (IT)",
+	"flag": "it",
+	"author": "mario-3093",
+
+	"stringKeys": {
+		"kGeneric_CollabVM": "CollabVM",
+		"kGeneric_Yes": "Si",
+		"kGeneric_No": "No",
+		"kGeneric_Ok": "OK",
+		"kGeneric_Cancel": "Annulla",
+		"kGeneric_Send": "Invia",
+		"kGeneric_Understood": "Capito",
+		"kGeneric_Username": "Username",
+		"kGeneric_Password": "Password",
+		"kGeneric_Login": "Accedi",
+		"kGeneric_Register": "Registrati",
+		"kGeneric_EMail": "E-Mail",
+		"kGeneric_DateOfBirth": "Data di Nascita",
+		"kGeneric_VerificationCode": "Codice di verifica",
+		"kGeneric_Verify": "Verifica",
+		"kGeneric_Update": "Aggiorna",
+		"kGeneric_Logout": "Esci",
+		
+		"kWelcomeModal_Header": "Benvenuto su CollabVM",
+		"kWelcomeModal_Body": "<p>Prima di continuare, per favore familiarizza con le nostre regole:</p> <h3>R1. Non infrangere la legge.</h3> Non utilizzare CollabVM o la rete di CollabVM per violare la legge federale degli Stati Uniti, la legge dello Stato di New York o la legge internazionale. Se CollabVM viene a conoscenza che è stato commesso un crimine tramite il suo servizio, verrai immediatamente bannato e le tue attività potrebbero essere segnalate alle autorità, se necessario. <br><br>CollabVM è tenuta per legge a informare le forze dell'ordine qualora venga a conoscenza della presenza di materiale pedopornografico sulla sua rete o trasmesso attraverso di essa. <br><br>È in vigore anche la legge COPPA: ti preghiamo di non utilizzare CollabVM se hai meno di 13 anni. <h3>R2. Non eseguire strumenti DoS/DDoS. </h3> Non utilizzare CollabVM per eseguire strumenti DoS/DDoS ad un individuo, un'azienda, una società o chiunque altro.. <h3>R3. Nessuna distribuzione di spam .</h3> Non inviare spam alle e-mail utilizzando questo servizio o inviare spam in generale. <h3>R4. Non abusare di alcun exploit. </h3> Non abusare di alcun exploit, inoltre se vedi qualcuno abusare di exploit o hai bisogno di segnalarne uno, contattami a: computernewbab@gmail.com <h3>R5. Non impersonare altri utenti.</h3> Non impersonare altri membri di CollabVM. Se verrai scoperto, verrai temporaneamente disconnesso e, se necessario, bannato. <h3>R6. Un voto a persona. </h3> Non utilizzare alcun metodo o strumento per aggirare la restrizione del voto. È consentito un solo voto a persona, non importa cosa accada. Chiunque venga sorpreso a farlo verrà bannato. <h3>R7. Nessuno strumento di amministrazione remota. </h3> Non utilizzare strumenti di amministrazione remota (ad esempio: DarkComet, NanoCore, Anydesk, TeamViewer, Orcus, ecc.) <h3>R8. Non bypassare CollabNet. </h3> Non tentare di aggirare il blocco fornito da CollabNet, soprattutto se viene utilizzato per violare la Regola 1, la Regola 2 o la Regola 7 (o per eseguire cose stupide e abusate). <h3>R9. Non eseguire azioni distruttive costantemente. </h3> Nessun utente può distruggere la VM (rendendola costantemente inutilizzabile), installare/reinstallare il sistema operativo (tranne su VM7 o VM8), o eseguire bot che fanno tali cose. Ciò include i bot che spammano enormi quantità di tasti/mouse input (\"kitting\"). <h3>R10. Nessun Cryptomining </h3> Tentare di estrarre criptovaluta sulle VM comporterà un kick, e poi un ban permanente se continui a provare. Inoltre, non è che ci guadagnerai soldi. <h3>Avviso NSFW</h3> Si prega di notare che i contenuti NSFW sono consentiti sulla nostra VM anarchy (VM0b0t) e vengono visualizzati regolarmente. Inoltre, mentre ci impegniamo a tenere i contenuti NSFW fuori dalle VM principali, a volte le persone li lasciano passare.",
+
+		"kSiteButtons_Home": "Home",
+		"kSiteButtons_FAQ": "FAQ",
+		"kSiteButtons_Rules": "Regole",
+		"kSiteButtons_DarkMode": "Modalità scura",
+		"kSiteButtons_LightMode": "Modalità chiara",
+		"kSiteButtons_Languages": "Lingue",
+
+		"kVM_UsersOnlineText": "Utenti Online:",
+
+		"kVM_TurnTimeTimer": "Il turno scade tra {0} secondi.",
+		"kVM_WaitingTurnTimer": "In attesa del turno per {0} secondi.",
+		"kVM_VoteCooldownTimer": "Per favore aspetta {0} secondi prima di iniziare un altro voto.",
+
+		"kVM_VoteForResetTitle": "Vuoi resettare la VM?",
+		"kVM_VoteForResetTimer": "La votazione termina tra {0} secondi",
+
+		"kVMButtons_TakeTurn": "Prendi il turno",
+		"kVMButtons_EndTurn": "Termina il turno",
+		"kVMButtons_ChangeUsername": "Cambia nome utente",
+		"kVMButtons_Keyboard": "Tastiera",
+		"KVMButtons_CtrlAltDel": "Ctrl+Alt+Canc",
+
+		"kVMButtons_VoteForReset": "Vota per il ripristino",
+		"kVMButtons_Screenshot": "Screenshot",
+
+		"kQEMUMonitor": "QEMU Monitor",
+		"kAdminVMButtons_PassVote": "Passa la votazione",
+		"kAdminVMButtons_CancelVote": "Annulla la votazione",
+
+		"kAdminVMButtons_Restore": "Ripristina",
+		"kAdminVMButtons_Reboot": "Riavvia",
+		"kAdminVMButtons_ClearTurnQueue": "Cancella la coda dei turni",
+		"kAdminVMButtons_BypassTurn": "Bypassa il turno",
+  		"kAdminVMButtons_IndefiniteTurn": "Turno indefinito",
+		"kAdminVMButtons_GhostTurnOn": "Turno fantasma (Sì)",
+		"kAdminVMButtons_GhostTurnOff": "Turno fantasma (No)",
+
+		"kAdminVMButtons_Ban": "Banna",
+		"kAdminVMButtons_Kick": "Espelli",
+		"kAdminVMButtons_TempMute": " Muta temporaneamente",
+		"kAdminVMButtons_IndefMute": " Muta indefinitivamente",
+		"kAdminVMButtons_Unmute": "Smuta",
+		"kAdminVMButtons_GetIP": "Ottieni l'IP",
+
+		"kVMPrompts_AdminChangeUsernamePrompt": "Inserisci un nuovo nome utente per {0}:",
+		"kVMPrompts_AdminRestoreVMPrompt": "Sei sicuro di voler ripristinare la VM?",
+		"kVMPrompts_EnterNewUsernamePrompt": "Inserisci un nuovo nome utente, oppure lascia il campo vuoto per ricevere un nome utente ospite",
+
+		"kError_UnexpectedDisconnection": "Sei stato disconesso dal server.",
+		"kError_UsernameTaken": "Questo nome utente è già in uso",
+		"kError_UsernameInvalid": "I nomi utente possono contenere solo numeri, lettere, spazi, trattini, caratteri di sottolineatura e punti e devono essere compresi tra 3 e 20 caratteri.",
+		"kError_UsernameBlacklisted": "Questo nome utente è stato inserito nella lista nera.",
+		"kError_IncorrectPassword": "Password errata.",
+
+		"kAccountModal_Verify": "Verifica E-Mail",
+		"kAccountModal_AccountSettings": "Impostazioni dell'account",
+		"kAccountModal_ResetPassword": "Reimposta la Password",
+
+		"kAccountModal_NewPassword": "Nuova Password",
+		"kAccountModal_ConfirmNewPassword": "Conferma la nuova Password",
+  		"kAccountModal_CurrentPassword": "Password corrente",
+		"kAccountModal_ConfirmPassword": "Conferma Password",
+		"kAccountModal_HideFlag": "Nascondi la bandiera del mio Paese",
+
+		"kMissingCaptcha": "Si prega di compilare il captcha.",
+		"kPasswordsMustMatch": "Le password devono essere identiche.",
+		"kAccountModal_VerifyText": "Abbiamo inviato un E-mail a {0}. Per verificare il tuo account, inserisci sotto il codice di 8 cifre ricevuto nella E-mail.",
+		"kAccountModal_VerifyPasswordResetText": "Abbiamo inviato una E-Mail a {0}. Per reimpostare la tua password, inserisci sotto il codice di 8 cifre ricevuto nella E-mail.",
+		"kAccountModal_PasswordResetSuccess": "La tua password è stata modificata con successo. Ora puoi effettuare l'accesso con la tua nuova password.",
+
+		"kNotLoggedIn": "Non hai ancora effettuato l'accesso."
+	}
+}
